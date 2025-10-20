@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Benjmain_Co-op_Demo1</string>
+    <string name="hint_image_url">Image URL</string>
+    <string name="btn_load">Load</string>
+    <string name="cd_loaded_image">Loaded image</string>
+    <string name="error_enter_url">Enter a valid URL</string>
+    <string name="msg_image_loaded">Image loaded</string>
+    <string name="error_failed">Failed: %1$s</string>
+</resources>
